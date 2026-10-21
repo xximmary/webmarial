@@ -1,0 +1,1 @@
+Um menu lateral é exibido automaticamente quando existe uma pasta chamada “pages”. 
